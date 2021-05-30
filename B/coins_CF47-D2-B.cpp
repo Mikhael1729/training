@@ -50,7 +50,7 @@ int main() {
   if ((w3[1] == '<' && w31 < w32) || (w3[1] == '>' && w31 > w32)) {
     cout << order;
   } else {
-    cout << "Imposible";
+    cout << "Impossible";
   }
 
   return 0;
